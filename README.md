@@ -1,3 +1,3 @@
 # fluffy-chainsaw
 
-Scott is awesome.
+Daniel is awesome.
